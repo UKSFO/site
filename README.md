@@ -2,7 +2,7 @@
 
 ---
 
-# Welcome to the official documentation and knowledge base for UKSF(O).
+Welcome to the official documentation and knowledge base for UKSF(O).
 
 ---
 
