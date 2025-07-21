@@ -1,7 +1,7 @@
 # 🚙 Vehicle Drills
 
 - Vic Order: Lead, Command, Support, Rear.
-- Comms: Intercom priority for 1IC/2IC, call contact direction.
+- Comms: Intercom priority for IC/2IC, call contact direction.
 - Dismount on: "Contact!" or "Crash out!"
 - Immediate actions: Reverse, dismount left/right, 180° fan
 - SOP for HVT escort, Convoy halt, and Ambush reaction
