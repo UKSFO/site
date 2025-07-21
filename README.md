@@ -2,7 +2,8 @@
 
 ---
 
-# Welcome to the official documentation and knowledge base for **UKSF(O)** — a MilSim community inspired by the structure, ethos, and operational style of the United Kingdom Special Forces.
+# Welcome to the official documentation and knowledge base for **UKSF(O)** 
+— a MilSim community inspired by the structure, ethos, and operational style of the United Kingdom Special Forces.
 
 This wiki provides standard operating procedures, unit guides, training content, and technical resources used across our operations in ARMA Reforger.
 
